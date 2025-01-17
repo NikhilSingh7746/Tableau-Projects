@@ -6,7 +6,6 @@ It is the best way to change or transform the raw set of data into an easily und
 <h3>What is Tableau used for ?</h3>            
 
 - Tableau software is used to translate queries into visualization.     
-
 - It is also used for managing metadata.
                        
 - Tableau software imports data of all sizes and ranges.
