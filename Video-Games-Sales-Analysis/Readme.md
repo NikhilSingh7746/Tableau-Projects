@@ -24,8 +24,8 @@ This Tableau dashboard explores video game sales across various dimensions, incl
   - Total platforms: 31               
   - Total publishers: 579                 
 
-<h4><b>Key Takeaways</b></h4>
------
+<h4>Key Takeaways</h4>
+------
 - Data Analysis and Visualization :- Gained hands-on experience using Tableau to create effective visualizations.
 - Industry Trends :- Developed a better understanding of the video game industry's growth and the dominance of certain genres, platforms, and publishers.
 - Dashboard Design :- Improved skills in organizing visuals to tell a clear and engaging story.
