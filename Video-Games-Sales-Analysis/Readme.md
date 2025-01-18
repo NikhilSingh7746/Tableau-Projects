@@ -1,5 +1,6 @@
 <h2>Video Game Sales Analysis</h2>
 This Tableau dashboard explores video game sales across various dimensions, including time, genre, platform, and publisher. The dashboard provides insights into industry trends and key players.
+<br>
 
 <b>Key Sections</b>
 - Sales by Year and Genre :- A stacked area chart visualizes how video game sales in different genres have evolved over time (1985–2017).
@@ -16,12 +17,12 @@ This Tableau dashboard explores video game sales across various dimensions, incl
 <b>Dataset Overview</b>
 
 Summarizes key dataset metrics:
-Total games: 11,493
-Total genres: 12
-Total platforms: 31
-Total publishers: 579
+Total games: 11,493                  
+Total genres: 12                   
+Total platforms: 31               
+Total publishers: 579                 
 
-<b>Key Takeaways</b>
+<h4><b>Key Takeaways</b></h4>
 - Data Analysis and Visualization :- Gained hands-on experience using Tableau to create effective visualizations.
 - Industry Trends :- Developed a better understanding of the video game industry's growth and the dominance of certain genres, platforms, and publishers.
 - Dashboard Design :- Improved skills in organizing visuals to tell a clear and engaging story.
