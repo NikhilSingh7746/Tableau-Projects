@@ -3,7 +3,7 @@ This Tableau dashboard explores video game sales across various dimensions, incl
 
 
 
-<h4>Key Sections</h4>  
+<b>Key Sections</b>
 - Sales by Year and Genre :- A stacked area chart visualizes how video game sales in different genres have evolved over time (1985–2017).
   Highlights trends and significant peaks in sales over the years.                         
 - Total Sales by Genre :- A bar chart shows the total sales for each genre.
