@@ -2,7 +2,7 @@
 
 Netflix is one of the leading video streaming platforms worldwide, offering a diverse range of movies and TV shows across various genres and regions. To analyze its content library, I created this Tableau dashboard, which captures essential insights and trends.
 
-<b>Key Features and Insights of My Work:<b>
+<b>Key Features and Insights of My Work:</b>
 
 - Global Content Distribution: The world map shows the distribution of Netflix movies and TV shows across countries, highlighting where content is most concentrated. 
 - Movies vs. TV Shows: A pie chart reveals that movies make up the majority of Netflix's catalog (68.42%), compared to TV shows (31.58%).
