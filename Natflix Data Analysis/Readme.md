@@ -1,4 +1,4 @@
-<h2>Netflix Content Analysis Dashboard</h2>h2>
+<h2>Netflix Content Analysis Dashboard</h2>
 
 Netflix is one of the leading video streaming platforms worldwide, offering a diverse range of movies and TV shows across various genres and regions. To analyze its content library, I created this Tableau dashboard, which captures essential insights and trends.
 
